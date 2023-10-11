@@ -1,0 +1,7 @@
+,SOI Booking Code,list_of_passengers,num_in_party,fixRoute,Flights
+1,MUC-LGW-POI-ID0,['POI_1_1'],1,MUC->LGW,[141248]
+2,OTP-LGW-POI-ID0,"['POI_2_1', 'POI_2_2']",2,OTP->LGW,[74802]
+3,ARN-BRS-POI-ID0,"['POI_3_1', 'POI_3_2']",2,ARN->AMS->BRS,"[151717, 153090]"
+4,RIX-NOC-POI-ID0,['POI_4_1'],1,RIX->STN->NOC,"[53398, nan]"
+8,ZAG-HAM-POI-ID0,"['POI_8_1', 'POI_8_2']",2,ZAG->LHR->HAM,"[184710, 185978]"
+9,OTP-LHR-POI-ID0,['POI_9_1'],1,OTP->LHR,[217108]

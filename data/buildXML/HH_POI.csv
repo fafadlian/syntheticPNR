@@ -1,0 +1,22 @@
+,HH_num,HH_ISO,IATA_O,HHID,GenderHOH,AgeHOH,SizeHH,HHType,Lang,Surname,Address,PostCode,Country
+0,0,IRL,DUB,POI_0,M,36,2,T2,ga_IE,Ó Lainn,"11971 Mac Thámhais Passage
+Ingridton, AK 53359",17045,Republic of Ireland
+1,1,DEU,MUC,POI_1,M,13,1,T1,de_DE,Zirme,"Irmtraud-Dietz-Allee 0
+50901 Wetzlar",30274,Germany
+2,2,ROU,OTP,POI_2,F,29,2,T2,ro_RO,Tudor,"Intrarea Ghenadie Manole
+Anina, 245855",904976,Romania
+3,3,SWE,ARN,POI_3,M,46,2,T2,sv_SE,Eriksson,"Idrottsvägen 422
+28628 Sundsvall",54847,Sweden
+4,4,LVA,RIX,POI_4,F,9,1,T1,,Arroyo,"0769 Brown Mall
+Ericmouth, SC 51648",24248,United States
+5,5,CHE,ZRH,POI_5,M,51,2,T2,fr_CH,Pasquier,"rue Nusslé
+4674 Chatriand-sur-Pachoud",5788,Switzerland
+6,6,BEL,BRU,POI_6,F,36,2,T2,nl_BE,Burke,"Tammybaan 7
+3658
+Huldenberg",6450,Belgium
+7,7,SVK,BTS,POI_7,M,47,2,T2,sk_SK,Harmon,"Žitná 90
+010 21 Orovnica",946 93,Slovakia
+8,8,HRV,ZAG,POI_8,M,32,2,T2,hr_HR,Modrić,"Ilica 1b/8
+80925 Novska",89437,Croatia
+9,9,ROU,OTP,POI_9,M,9,1,T1,ro_RO,Mazilescu,"Aleea Olimpia Toma
+Sovata, 255504",586889,Romania

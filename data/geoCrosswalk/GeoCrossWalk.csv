@@ -1,0 +1,209 @@
+airportID,airportName,City,countryName,IATA,ICAO,Latitude,Longitude,Altitude,Timezone,DST,TZ,Type,Source,iso_code,dafif_code,HH_ISO,region,sub-region,Lang,Currency
+210,Houari Boumediene Airport,Algier,Algeria,ALG,DAAG,36.69100189,3.215409994,82,1,N,Africa/Algiers,airport,OurAirports,DZ,AG,DZA,Africa,Northern Africa,#N/A,DZD
+797,Cape Town International Airport,Cape Town,South Africa,CPT,FACT,-33.96480179,18.60169983,151,2,U,Africa/Johannesburg,airport,OurAirports,ZA,SF,ZAF,Africa,Sub-Saharan Africa,#N/A,ZAR
+813,OR Tambo International Airport,Johannesburg,South Africa,JNB,FAOR,-26.1392,28.246,5558,2,U,Africa/Johannesburg,airport,OurAirports,ZA,SF,ZAF,Africa,Sub-Saharan Africa,#N/A,ZAR
+1072,Rabat-Salé Airport,Rabat,Morocco,RBA,GMME,34.051498,-6.75152,276,0,N,Africa/Casablanca,airport,OurAirports,MA,MO,MAR,Africa,Northern Africa,#N/A,MAD
+1074,Mohammed V International Airport,Casablanca,Morocco,CMN,GMMN,33.36750031,-7.589970112,656,0,N,Africa/Casablanca,airport,OurAirports,MA,MO,MAR,Africa,Northern Africa,#N/A,MAD
+146,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,YUL,CYUL,45.47060013,-73.74079895,118,-5,A,America/Toronto,airport,OurAirports,CA,CA,CAN,Americas,Northern America,#N/A,CAD
+156,Vancouver International Airport,Vancouver,Canada,YVR,CYVR,49.19390106,-123.1839981,14,-8,A,America/Vancouver,airport,OurAirports,CA,CA,CAN,Americas,Northern America,#N/A,CAD
+178,Calgary International Airport,Calgary,Canada,YYC,CYYC,51.11389923,-114.0199966,3557,-7,A,America/Edmonton,airport,OurAirports,CA,CA,CAN,Americas,Northern America,#N/A,CAD
+193,Lester B. Pearson International Airport,Toronto,Canada,YYZ,CYYZ,43.67720032,-79.63059998,569,-5,A,America/Toronto,airport,OurAirports,CA,CA,CAN,Americas,Northern America,#N/A,CAD
+3682,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,ATL,KATL,33.6367,-84.428101,1026,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3448,General Edward Lawrence Logan International Airport,Boston,United States,BOS,KBOS,42.36429977,-71.00520325,20,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3876,Charlotte Douglas International Airport,Charlotte,United States,CLT,KCLT,35.2140007,-80.94309998,748,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3751,Denver International Airport,Denver,United States,DEN,KDEN,39.86169815,-104.6729965,5431,-7,A,America/Denver,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3670,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,DFW,KDFW,32.896801,-97.038002,607,-6,A,America/Chicago,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3645,Detroit Metropolitan Wayne County Airport,Detroit,United States,DTW,KDTW,42.21239853,-83.35340118,645,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3494,Newark Liberty International Airport,Newark,United States,EWR,KEWR,40.69250107,-74.16870117,18,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3714,Washington Dulles International Airport,Washington,United States,IAD,KIAD,38.94449997,-77.45580292,312,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3797,John F Kennedy International Airport,New York,United States,JFK,KJFK,40.63980103,-73.77890015,13,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3484,Los Angeles International Airport,Los Angeles,United States,LAX,KLAX,33.94250107,-118.4079971,125,-8,A,America/Los_Angeles,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3878,Orlando International Airport,Orlando,United States,MCO,KMCO,28.42939949,-81.30899811,96,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3576,Miami International Airport,Miami,United States,MIA,KMIA,25.79319954,-80.29060364,8,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3858,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,MSP,KMSP,44.882,-93.221802,841,-6,A,America/Chicago,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3830,Chicago O'Hare International Airport,Chicago,United States,ORD,KORD,41.9786,-87.9048,672,-6,A,America/Chicago,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3752,Philadelphia International Airport,Philadelphia,United States,PHL,KPHL,39.87189865,-75.2410965,36,-5,A,America/New_York,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3462,Phoenix Sky Harbor International Airport,Phoenix,United States,PHX,KPHX,33.43429947,-112.012001,1135,-7,N,America/Phoenix,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3577,Seattle Tacoma International Airport,Seattle,United States,SEA,KSEA,47.449001,-122.308998,433,-8,A,America/Los_Angeles,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+3469,San Francisco International Airport,San Francisco,United States,SFO,KSFO,37.61899948,-122.375,13,-8,A,America/Los_Angeles,airport,OurAirports,US,US,USA,Americas,Northern America,en_US,USD
+1871,Tocumen International Airport,Panama City,Panama,PTY,MPTO,9.071359634,-79.38349915,135,-5,U,America/Panama,airport,OurAirports,PA,PM,PAN,Americas,Latin America and the Caribbean,#N/A,PAB
+3988,Ministro Pistarini International Airport,Buenos Aires,Argentina,EZE,SAEZ,-34.8222,-58.5358,67,-3,N,America/Buenos_Aires,airport,OurAirports,AR,AR,ARG,Americas,Latin America and the Caribbean,#N/A,ARS
+2560,Rio Galeão – Tom Jobim International Airport,Rio De Janeiro,Brazil,GIG,SBGL,-22.80999947,-43.25055695,28,-3,S,America/Sao_Paulo,airport,OurAirports,BR,BR,BRA,Americas,Latin America and the Caribbean,#N/A,BRL
+1197,Larnaca International Airport,Larnaca,Cyprus,LCA,LCLK,34.87509918,33.62490082,8,2,E,Asia/Nicosia,airport,OurAirports,CY,CY,CYP,Asia,Western Asia,#N/A,EUR
+1590,Ben Gurion International Airport,Tel-aviv,Israel,TLV,LLBG,32.01139832,34.88669968,135,2,E,Asia/Jerusalem,airport,OurAirports,IL,IS,ISR,Asia,Western Asia,#N/A,ILS
+1701,Atatürk International Airport,Istanbul,Turkey,ISL,LTBA,40.976898,28.8146,163,3,E,Europe/Istanbul,airport,OurAirports,TR,TU,TUR,Asia,Western Asia,tr_TR,TRY
+4317,Sabiha Gökçen International Airport,Istanbul,Turkey,SAW,LTFJ,40.89860153,29.30920029,312,3,E,Europe/Istanbul,airport,OurAirports,TR,TU,TUR,Asia,Western Asia,tr_TR,TRY
+2177,Beirut Rafic Hariri International Airport,Beirut,Lebanon,BEY,OLBA,33.82089996,35.48839951,87,2,E,Asia/Beirut,airport,OurAirports,LB,LE,LBN,Asia,Western Asia,#N/A,LBP
+2179,Abu Dhabi International Airport,Abu Dhabi,United Arab Emirates,AUH,OMAA,24.43300056,54.65110016,88,4,U,Asia/Dubai,airport,OurAirports,AE,AE,ARE,Asia,Western Asia,#N/A,AED
+2188,Dubai International Airport,Dubai,United Arab Emirates,DXB,OMDB,25.25279999,55.36439896,62,4,U,Asia/Dubai,airport,OurAirports,AE,AE,ARE,Asia,Western Asia,#N/A,AED
+11051,Hamad International Airport,Doha,Qatar,DOH,OTHH,25.273056,51.608056,13,3,N,,airport,OurAirports,QA,QA,QAT,Asia,Western Asia,#N/A,QAR
+2276,Taiwan Taoyuan International Airport,Taipei,Taiwan,TPE,RCTP,25.0777,121.233002,106,8,U,Asia/Taipei,airport,OurAirports,TW,TW,TWN,Asia,Eastern Asia,#N/A,TWD
+2279,Narita International Airport,Tokyo,Japan,NRT,RJAA,35.76470184,140.3860016,141,9,U,Asia/Tokyo,airport,OurAirports,JP,JA,JPN,Asia,Eastern Asia,#N/A,JPY
+2359,Tokyo Haneda International Airport,Tokyo,Japan,HND,RJTT,35.552299,139.779999,35,9,U,Asia/Tokyo,airport,OurAirports,JP,JA,JPN,Asia,Eastern Asia,#N/A,JPY
+3930,Incheon International Airport,Seoul,South Korea,ICN,RKSI,37.46910095,126.4509964,23,9,U,Asia/Seoul,airport,OurAirports,KR,KS,KOR,Asia,Eastern Asia,#N/A,KRW
+3077,Hong Kong International Airport,Hong Kong,Hong Kong,HKG,VHHH,22.308901,113.915001,28,8,U,Asia/Hong_Kong,airport,OurAirports,HK,HK,HKK,Asia,Eastern Asia,#N/A,#NAME?
+3093,Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.5665,77.103104,777,5.5,N,Asia/Calcutta,airport,OurAirports,IN,BS,IND,Asia,Southern Asia,#N/A,INR
+3093,Indira Gandhi International Airport,Delhi,India,DEL,VIDP,28.5665,77.103104,777,5.5,N,Asia/Calcutta,airport,OurAirports,IN,IN,IND,Asia,Southern Asia,#N/A,INR
+3131,Kempegowda International Airport,Bangalore,India,BLR,VOBL,13.1979,77.706299,3000,5.5,N,Asia/Calcutta,airport,OurAirports,IN,BS,IND,Asia,Southern Asia,#N/A,INR
+3131,Kempegowda International Airport,Bangalore,India,BLR,VOBL,13.1979,77.706299,3000,5.5,N,Asia/Calcutta,airport,OurAirports,IN,IN,IND,Asia,Southern Asia,#N/A,INR
+3885,Suvarnabhumi Airport,Bangkok,Thailand,BKK,VTBS,13.68109989,100.7470016,5,7,U,Asia/Bangkok,airport,OurAirports,TH,TH,THA,Asia,South-eastern Asia,#N/A,THB
+3316,Singapore Changi Airport,Singapore,Singapore,SIN,WSSS,1.35019,103.994003,22,8,N,Asia/Singapore,airport,OurAirports,SG,SN,SGP,Asia,South-eastern Asia,#N/A,SGD
+16,Keflavik International Airport,Keflavik,Iceland,KEF,BIKF,63.98500061,-22.60560036,171,0,N,Atlantic/Reykjavik,airport,OurAirports,IS,IC,ISL,Europe,Northern Europe,#N/A,ISK
+302,Brussels Airport,Brussels,Belgium,BRU,EBBR,50.90140152,4.48443985,184,1,E,Europe/Brussels,airport,OurAirports,BE,BE,BEL,Europe,Western Europe,nl_BE,EUR
+304,Brussels South Charleroi Airport,Charleroi,Belgium,CRL,EBCI,50.459202,4.45382,614,1,E,Europe/Brussels,airport,OurAirports,BE,BE,BEL,Europe,Western Europe,nl_BE,EUR
+337,Berlin-Schönefeld Airport,Berlin,Germany,SXF,EDDB,52.380001,13.5225,157,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+338,Dresden Airport,Dresden,Germany,DRS,EDDC,51.13280106,13.76720047,755,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+340,Frankfurt am Main Airport,Frankfurt,Germany,FRA,EDDF,50.033333,8.570556,364,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+341,Münster Osnabrück Airport,Munster,Germany,FMO,EDDG,52.13460159,7.684830189,160,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+342,Hamburg Airport,Hamburg,Germany,HAM,EDDH,53.63040161,9.988229752,53,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+344,Cologne Bonn Airport,Cologne,Germany,CGN,EDDK,50.86589813,7.142739773,302,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+345,Düsseldorf Airport,Duesseldorf,Germany,DUS,EDDL,51.289501,6.76678,147,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+346,Munich Airport,Munich,Germany,MUC,EDDM,48.353802,11.7861,1487,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+347,Nuremberg Airport,Nuernberg,Germany,NUE,EDDN,49.498699,11.078056,1046,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+348,Leipzig/Halle Airport,Leipzig,Germany,LEJ,EDDP,51.423889,12.236389,465,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+350,Stuttgart Airport,Stuttgart,Germany,STR,EDDS,48.68989944,9.221960068,1276,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+352,Hannover Airport,Hannover,Germany,HAJ,EDDV,52.46110153,9.685079575,183,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+353,Bremen Airport,Bremen,Germany,BRE,EDDW,53.04750061,8.786669731,14,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+373,Dortmund Airport,Dortmund,Germany,DTM,EDLW,51.5182991,7.612239838,425,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+382,Friedrichshafen Airport,Friedrichshafen,Germany,FDH,EDNY,47.67129898,9.511489868,1367,1,E,Europe/Berlin,airport,OurAirports,DE,GM,DEU,Europe,Western Europe,de_DE,EUR
+415,Lennart Meri Tallinn Airport,Tallinn-ulemiste International,Estonia,TLL,EETN,59.41329956,24.83279991,131,2,E,Europe/Tallinn,airport,OurAirports,EE,EN,EST,Europe,Northern Europe,#N/A,EUR
+421,Helsinki Vantaa Airport,Helsinki,Finland,HEL,EFHK,60.31719971,24.9633007,179,2,E,Europe/Helsinki,airport,OurAirports,FI,FI,FIN,Europe,Northern Europe,fi_FI,EUR
+439,Kuopio Airport,Kuopio,Finland,KUO,EFKU,63.00709915,27.79780006,323,2,E,Europe/Helsinki,airport,OurAirports,FI,FI,FIN,Europe,Northern Europe,fi_FI,EUR
+446,Oulu Airport,Oulu,Finland,OUL,EFOU,64.93009949,25.35460091,47,2,E,Europe/Helsinki,airport,OurAirports,FI,FI,FIN,Europe,Northern Europe,fi_FI,EUR
+465,Belfast International Airport,Belfast,United Kingdom,BFS,EGAA,54.65750122,-6.215829849,268,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+467,George Best Belfast City Airport,Belfast,United Kingdom,BHD,EGAC,54.61809921,-5.872499943,15,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+469,Birmingham International Airport,Birmingham,United Kingdom,BHX,EGBB,52.45389938,-1.748029947,327,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+478,Manchester Airport,Manchester,United Kingdom,MAN,EGCC,53.35369873,-2.274950027,257,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+490,Bristol Airport,Bristol,United Kingdom,BRS,EGGD,51.382702,-2.71909,622,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+491,Liverpool John Lennon Airport,Liverpool,United Kingdom,LPL,EGGP,53.33359909,-2.849720001,80,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+492,London Luton Airport,London,United Kingdom,LTN,EGGW,51.87469864,-0.368333012,526,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+495,Southampton Airport,Southampton,United Kingdom,SOU,EGHI,50.95029831,-1.35679996,44,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+497,Alderney Airport,Alderney,Guernsey,ACI,EGJA,49.706104,-2.21472,290,0,E,Europe/Guernsey,airport,OurAirports,GG,GK,GGY,Europe,Northern Europe,#N/A,GBP
+498,Guernsey Airport,Guernsey,Guernsey,GCI,EGJB,49.43500137,-2.601969957,336,0,E,Europe/Guernsey,airport,OurAirports,GG,GK,GGY,Europe,Northern Europe,#N/A,GBP
+499,Jersey Airport,Jersey,Jersey,JER,EGJJ,49.207901,-2.195509911,277,0,E,Europe/Jersey,airport,OurAirports,JE,JE,JEY,Europe,Northern Europe,#N/A,GBP
+502,London Gatwick Airport,London,United Kingdom,LGW,EGKK,51.148102,-0.190278,202,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+503,London City Airport,London,United Kingdom,LCY,EGLC,51.505299,0.055278,19,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+507,London Heathrow Airport,London,United Kingdom,LHR,EGLL,51.4706,-0.461941,83,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+517,Leeds Bradford Airport,Leeds,United Kingdom,LBA,EGNM,53.86589813,-1.660570025,681,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+520,Isle of Man Airport,Isle Of Man,Isle of Man,IOM,EGNS,54.08330154,-4.623889923,52,0,E,Europe/Isle_of_Man,airport,OurAirports,IM,IM,IMN,Europe,Northern Europe,#N/A,GBP
+521,Newcastle Airport,Newcastle,United Kingdom,NCL,EGNT,55.03749847,-1.691669941,266,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+523,East Midlands Airport,East Midlands,United Kingdom,EMA,EGNX,52.83110046,-1.328060031,306,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+532,Aberdeen Dyce Airport,Aberdeen,United Kingdom,ABZ,EGPD,57.20190048,-2.197779894,215,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+534,Glasgow International Airport,Glasgow,United Kingdom,GLA,EGPF,55.87189865,-4.433060169,26,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+535,Edinburgh Airport,Edinburgh,United Kingdom,EDI,EGPH,55.95000076,-3.372499943,135,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+548,London Stansted Airport,London,United Kingdom,STN,EGSS,51.88499832,0.234999999,348,0,E,Europe/London,airport,OurAirports,GB,UK,GBR,Europe,Northern Europe,en_GB,GBP
+580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM,52.308601,4.76389,-11,1,E,Europe/Amsterdam,airport,OurAirports,NL,NL,NLD,Europe,Western Europe,nl_NL,EUR
+585,Eindhoven Airport,Eindhoven,Netherlands,EIN,EHEH,51.45009995,5.374529839,74,1,E,Europe/Amsterdam,airport,OurAirports,NL,NL,NLD,Europe,Western Europe,nl_NL,EUR
+591,Rotterdam The Hague Airport,Rotterdam,Netherlands,RTM,EHRD,51.956902,4.43722,-15,1,E,Europe/Amsterdam,airport,OurAirports,NL,NL,NLD,Europe,Western Europe,nl_NL,EUR
+599,Dublin Airport,Dublin,Ireland,DUB,EIDW,53.421299,-6.27007,242,0,E,Europe/Dublin,airport,OurAirports,IE,EI,IRL,Europe,Northern Europe,ga_IE,EUR
+600,Ireland West Knock Airport,Connaught,Ireland,NOC,EIKN,53.91030121,-8.818490028,665,0,E,Europe/Dublin,airport,OurAirports,IE,EI,IRL,Europe,Northern Europe,ga_IE,EUR
+603,Shannon Airport,Shannon,Ireland,SNN,EINN,52.702,-8.92482,46,0,E,Europe/Dublin,airport,OurAirports,IE,EI,IRL,Europe,Northern Europe,ga_IE,EUR
+607,Aarhus Airport,Aarhus,Denmark,AAR,EKAH,56.29999924,10.61900043,82,1,E,Europe/Copenhagen,airport,OurAirports,DK,DA,DNK,Europe,Northern Europe,dk_DK,DKK
+608,Billund Airport,Billund,Denmark,BLL,EKBI,55.74029922,9.151780128,247,1,E,Europe/Copenhagen,airport,OurAirports,DK,DA,DNK,Europe,Northern Europe,dk_DK,DKK
+609,Copenhagen Kastrup Airport,Copenhagen,Denmark,CPH,EKCH,55.61790085,12.65600014,17,1,E,Europe/Copenhagen,airport,OurAirports,DK,DA,DNK,Europe,Northern Europe,dk_DK,DKK
+618,Bornholm Airport,Ronne,Denmark,RNN,EKRN,55.06330109,14.75959969,52,1,E,Europe/Copenhagen,airport,OurAirports,DK,DA,DNK,Europe,Northern Europe,dk_DK,DKK
+628,Aalborg Airport,Aalborg,Denmark,AAL,EKYT,57.09275891,9.849243164,10,1,E,Europe/Copenhagen,airport,OurAirports,DK,DA,DNK,Europe,Northern Europe,dk_DK,DKK
+629,Luxembourg-Findel International Airport,Luxemburg,Luxembourg,LUX,ELLX,49.6233333,6.2044444,1234,1,E,Europe/Luxembourg,airport,OurAirports,LU,LU,LUX,Europe,Western Europe,lb_LU,EUR
+635,Bodø Airport,Bodo,Norway,BOO,ENBO,67.26920319,14.36530018,42,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+636,Bergen Airport Flesland,Bergen,Norway,BGO,ENBR,60.29339981,5.218140125,170,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+638,Kristiansand Airport,Kristiansand,Norway,KRS,ENCN,58.204201,8.08537,57,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+643,Florø Airport,Floro,Norway,FRO,ENFL,61.58359909,5.024720192,37,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+644,Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502,681,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+645,Haugesund Airport,Haugesund,Norway,HAU,ENHD,59.34529877,5.208360195,86,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+664,"Sandefjord Airport, Torp",Sandefjord,Norway,TRF,ENTO,59.18669891,10.25860024,286,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+666,Stavanger Airport Sola,Stavanger,Norway,SVG,ENZV,58.87670135,5.63778019,29,1,E,Europe/Oslo,airport,OurAirports,NO,NO,NOR,Europe,Northern Europe,no_NO,NOK
+668,Gdańsk Lech Wałęsa Airport,Gdansk,Poland,GDN,EPGD,54.37760162,18.46619987,489,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+669,Kraków John Paul II International Airport,Krakow,Poland,KRK,EPKK,50.077702,19.7848,791,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+671,Katowice International Airport,Katowice,Poland,KTW,EPKT,50.4743,19.08,995,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+8414,Modlin Airport,Warsaw,Poland,WMI,EPMO,52.451099,20.6518,341,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+674,Poznań-Ławica Airport,Poznan,Poland,POZ,EPPO,52.42100143,16.82629967,308,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+675,Rzeszów-Jasionka Airport,Rzeszow,Poland,RZE,EPRZ,50.11000061,22.0189991,675,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+679,Warsaw Chopin Airport,Warsaw,Poland,WAW,EPWA,52.16569901,20.96710014,362,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+680,Copernicus Wrocław Airport,Wroclaw,Poland,WRO,EPWR,51.10269928,16.88579941,404,1,E,Europe/Warsaw,airport,OurAirports,PL,PL,POL,Europe,Eastern Europe,pl_PL,PLN
+687,Gothenburg-Landvetter Airport,Gothenborg,Sweden,GOT,ESGG,57.66279984,12.27980042,506,1,E,Europe/Stockholm,airport,OurAirports,SE,SW,SWE,Europe,Northern Europe,sv_SE,SEK
+699,Stockholm Skavsta Airport,Stockholm,Sweden,NYO,ESKN,58.78860092,16.91220093,140,1,E,Europe/Stockholm,airport,OurAirports,SE,SW,SWE,Europe,Northern Europe,sv_SE,SEK
+708,Malmö Sturup Airport,Malmoe,Sweden,MMX,ESMS,55.53630536,13.37619781,236,1,E,Europe/Stockholm,airport,OurAirports,SE,SW,SWE,Europe,Northern Europe,sv_SE,SEK
+5593,Åre Östersund Airport,Östersund,Sweden,OSD,ESNZ,63.19440079,14.50030041,1233,1,E,Europe/Stockholm,airport,OurAirports,SE,SW,SWE,Europe,Northern Europe,sv_SE,SEK
+737,Stockholm-Arlanda Airport,Stockholm,Sweden,ARN,ESSA,59.65190125,17.91860008,137,1,E,Europe/Stockholm,airport,OurAirports,SE,SW,SWE,Europe,Northern Europe,sv_SE,SEK
+5597,Ängelholm-Helsingborg Airport,Ängelholm,Sweden,AGH,ESTA,56.29610062,12.84710026,68,1,E,Europe/Stockholm,airport,OurAirports,SE,SW,SWE,Europe,Northern Europe,sv_SE,SEK
+3953,Riga International Airport,Riga,Latvia,RIX,EVRA,56.92359924,23.97109985,36,2,E,Europe/Riga,airport,OurAirports,LV,LG,LVA,Europe,Northern Europe,#N/A,EUR
+3956,Kaunas International Airport,Kaunas,Lithuania,KUN,EYKA,54.96390152,24.08480072,256,2,E,Europe/Vilnius,airport,OurAirports,LT,LH,LTU,Europe,Northern Europe,#N/A,EUR
+3959,Vilnius International Airport,Vilnius,Lithuania,VNO,EYVI,54.634102,25.285801,648,2,E,Europe/Vilnius,airport,OurAirports,LT,LH,LTU,Europe,Northern Europe,#N/A,EUR
+1194,Sofia Airport,Sofia,Bulgaria,SOF,LBSF,42.69669342,23.41143608,1742,2,E,Europe/Sofia,airport,OurAirports,BG,BU,BGR,Europe,Eastern Europe,#N/A,BGN
+1208,Zagreb Airport,Zagreb,Croatia,ZAG,LDZA,45.74290085,16.06879997,353,1,E,Europe/Zagreb,airport,OurAirports,HR,HR,HRV,Europe,Southern Europe,hr_HR,HRK
+1212,Alicante International Airport,Alicante,Spain,ALC,LEAL,38.28219986,-0.558156013,142,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1214,Asturias Airport,Aviles,Spain,OVD,LEAS,43.56359863,-6.034619808,416,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1218,Barcelona International Airport,Barcelona,Spain,BCN,LEBL,41.2971,2.07846,12,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1225,Ibiza Airport,Ibiza,Spain,IBZ,LEIB,38.8728981,1.37311995,24,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1229,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD,40.471926,-3.56264,1998,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1230,Málaga Airport,Malaga,Spain,AGP,LEMG,36.67490005,-4.499110222,53,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1231,Menorca Airport,Menorca,Spain,MAH,LEMH,39.86259842,4.218649864,302,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+3998,Palma De Mallorca Airport,Palma de Mallorca,Spain,PMI,LEPA,39.55170059,2.738810062,27,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1250,Vigo Airport,Vigo,Spain,VGO,LEVX,42.23180008,-8.62677002,856,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1253,Sevilla Airport,Sevilla,Spain,SVQ,LEZL,37.41799927,-5.893109798,112,1,E,Europe/Madrid,airport,OurAirports,ES,SP,ESP,Europe,Southern Europe,es_ES,EUR
+1264,Bordeaux-Mérignac Airport,Bordeaux,France,BOD,LFBD,44.82830048,-0.715556026,162,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1273,Toulouse-Blagnac Airport,Toulouse,France,TLS,LFBO,43.629101,1.36382,499,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1274,Pau Pyrénées Airport,Pau,France,PUF,LFBP,43.38000107,-0.41861099,616,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1330,Clermont-Ferrand Auvergne Airport,Clermont-Ferrand,France,CFE,LFLC,45.7867012,3.169169903,1090,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1353,Marseille Provence Airport,Marseille,France,MRS,LFML,43.43927192,5.221424103,74,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1354,Nice-Côte d'Azur Airport,Nice,France,NCE,LFMN,43.65840149,7.215869904,12,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1367,Paris Beauvais Tillé Airport,Beauvais,France,BVA,LFOB,49.45439911,2.112780094,359,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1382,Charles de Gaulle International Airport,Paris,France,CDG,LFPG,49.012798,2.55,392,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1386,Paris-Orly Airport,Paris,France,ORY,LFPO,48.7233333,2.3794444,291,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1399,Lille-Lesquin Airport,Lille,France,LIL,LFQQ,50.563332,3.086886,157,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1415,Rennes-Saint-Jacques Airport,Rennes,France,RNS,LFRN,48.06949997,-1.734789968,124,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1418,Nantes Atlantique Airport,Nantes,France,NTE,LFRS,47.15319824,-1.610730052,90,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+1435,Strasbourg Airport,Strasbourg,France,SXB,LFST,48.53829956,7.628230095,505,1,E,Europe/Paris,airport,OurAirports,FR,FR,FRA,Europe,Western Europe,fr_FR,EUR
+3941,Eleftherios Venizelos International Airport,Athens,Greece,ATH,LGAV,37.93640137,23.94449997,308,2,E,Europe/Athens,airport,OurAirports,GR,GR,GRC,Europe,Southern Europe,el_GR,EUR
+1472,Diagoras Airport,Rhodos,Greece,RHO,LGRP,36.40539932,28.08620071,17,2,E,Europe/Athens,airport,OurAirports,GR,GR,GRC,Europe,Southern Europe,el_GR,EUR
+1489,Budapest Liszt Ferenc International Airport,Budapest,Hungary,BUD,LHBP,47.42976,19.261093,495,1,E,Europe/Budapest,airport,OurAirports,HU,HU,HUN,Europe,Eastern Europe,hu_HU,HUF
+1505,Pescara International Airport,Pescara,Italy,PSR,LIBP,42.431702,14.1811,48,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1512,Falcone–Borsellino Airport,Palermo,Italy,PMO,LICJ,38.175999,13.091,65,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1524,Malpensa International Airport,Milano,Italy,MXP,LIMC,45.6306,8.72811,768,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1525,Il Caravaggio International Airport,Bergamo,Italy,BGY,LIME,45.673901,9.70417,782,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1526,Turin Airport,Torino,Italy,TRN,LIMF,45.200802,7.64963,989,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1529,Milano Linate Airport,Milan,Italy,LIN,LIML,45.445099,9.27674,353,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1538,Bologna Guglielmo Marconi Airport,Bologna,Italy,BLQ,LIPE,44.5354,11.2887,123,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1539,Treviso-Sant'Angelo Airport,Treviso,Italy,TSF,LIPH,45.648399,12.1944,59,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1550,Verona Villafranca Airport,Villafranca,Italy,VRN,LIPX,45.395699,10.8885,239,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1551,Venice Marco Polo Airport,Venice,Italy,VCE,LIPZ,45.505299,12.3519,7,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1553,Ciampino–G. B. Pastine International Airport,Rome,Italy,CIA,LIRA,41.7994,12.5949,427,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1555,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,LIRF,41.8002778,12.2388889,13,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1562,Pisa International Airport,Pisa,Italy,PSA,LIRP,43.683899,10.3927,6,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1563,Peretola Airport,Florence,Italy,FLR,LIRQ,43.810001,11.2051,142,1,E,Europe/Rome,airport,OurAirports,IT,IT,ITA,Europe,Southern Europe,it_IT,EUR
+1569,Ljubljana Jože Pučnik Airport,Ljubljana,Slovenia,LJU,LJLJ,46.223701,14.4576,1273,1,E,Europe/Ljubljana,airport,OurAirports,SI,SI,SVN,Europe,Southern Europe,sl_SI,EUR
+1587,Václav Havel Airport Prague,Prague,Czech Republic,PRG,LKPR,50.1008,14.26,1247,1,E,Europe/Prague,airport,OurAirports,CZ,EZ,CZE,Europe,Eastern Europe,cz_CZ,CZK
+1606,Malta International Airport,Malta,Malta,MLA,LMML,35.857498,14.4775,300,1,E,Europe/Malta,airport,OurAirports,MT,MT,MLT,Europe,Southern Europe,#N/A,EUR
+1609,Graz Airport,Graz,Austria,GRZ,LOWG,46.99110031,15.43959999,1115,1,E,Europe/Vienna,airport,OurAirports,AT,AU,AUT,Europe,Western Europe,de_AT,EUR
+1610,Innsbruck Airport,Innsbruck,Austria,INN,LOWI,47.260201,11.344,1907,1,E,Europe/Vienna,airport,OurAirports,AT,AU,AUT,Europe,Western Europe,de_AT,EUR
+1612,Salzburg Airport,Salzburg,Austria,SZG,LOWS,47.79330063,13.00430012,1411,1,E,Europe/Vienna,airport,OurAirports,AT,AU,AUT,Europe,Western Europe,de_AT,EUR
+1613,Vienna International Airport,Vienna,Austria,VIE,LOWW,48.11029816,16.56970024,600,1,E,Europe/Vienna,airport,OurAirports,AT,AU,AUT,Europe,Western Europe,de_AT,EUR
+1617,Santa Maria Airport,Santa Maria (island),Portugal,SMA,LPAZ,36.97140121,-25.17060089,308,-1,E,Atlantic/Azores,airport,OurAirports,PT,PO,PRT,Europe,Southern Europe,pt_PT,EUR
+1626,Faro Airport,Faro,Portugal,FAO,LPFR,37.01440048,-7.965909958,24,0,E,Europe/Lisbon,airport,OurAirports,PT,PO,PRT,Europe,Southern Europe,pt_PT,EUR
+4091,Madeira Airport,Funchal,Portugal,FNC,LPMA,32.697899,-16.7745,192,0,E,Europe/Lisbon,airport,OurAirports,PT,PO,PRT,Europe,Southern Europe,pt_PT,EUR
+1633,João Paulo II Airport,Ponta Delgada,Portugal,PDL,LPPD,37.74119949,-25.69790077,259,-1,E,Atlantic/Azores,airport,OurAirports,PT,PO,PRT,Europe,Southern Europe,pt_PT,EUR
+1636,Francisco de Sá Carneiro Airport,Porto,Portugal,OPO,LPPR,41.24810028,-8.681389809,228,0,E,Europe/Lisbon,airport,OurAirports,PT,PO,PRT,Europe,Southern Europe,pt_PT,EUR
+1638,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LIS,LPPT,38.7813,-9.13592,374,0,E,Europe/Lisbon,airport,OurAirports,PT,PO,PRT,Europe,Southern Europe,pt_PT,EUR
+1657,Henri Coandă International Airport,Bucharest,Romania,OTP,LROP,44.5711111,26.085,314,2,E,Europe/Bucharest,airport,OurAirports,RO,RO,ROU,Europe,Eastern Europe,ro_RO,RON
+1665,Geneva Cointrin International Airport,Geneva,Switzerland,GVA,LSGG,46.23809814,6.108950138,1411,1,E,Europe/Paris,airport,OurAirports,CH,SZ,CHE,Europe,Western Europe,fr_CH,CHF
+1678,Zürich Airport,Zurich,Switzerland,ZRH,LSZH,47.464699,8.54917,1416,1,E,Europe/Zurich,airport,OurAirports,CH,SZ,CHE,Europe,Western Europe,fr_CH,CHF
+1738,Gibraltar Airport,Gibraltar,Gibraltar,GIB,LXGB,36.15119934,-5.34965992,15,1,N,Europe/Gibraltar,airport,OurAirports,GI,GI,GIB,Europe,Southern Europe,#N/A,GIP
+1739,Belgrade Nikola Tesla Airport,Belgrade,Serbia,BEG,LYBE,44.81840134,20.3090992,335,1,E,Europe/Belgrade,airport,OurAirports,RS,RB,SRB,Europe,Southern Europe,#N/A,RSD
+1745,M. R. Štefánik Airport,Bratislava,Slovakia,BTS,LZIB,48.17020035,17.21269989,436,1,E,Europe/Bratislava,airport,OurAirports,SK,LO,SVK,Europe,Eastern Europe,sk_SK,EUR
+2934,Vladivostok International Airport,Vladivostok,Russia,VVO,UHWW,43.39899826,132.147995,46,10,N,Asia/Vladivostok,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2937,Irkutsk Airport,Irkutsk,Russia,IKT,UIII,52.26800156,104.3889999,1675,8,N,Asia/Irkutsk,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2939,Boryspil International Airport,Kiev,Ukraine,KBP,UKBB,50.34500122,30.8946991,427,2,E,Europe/Kiev,airport,OurAirports,UA,UP,UKR,Europe,Eastern Europe,uk_UA,UAH
+2948,Pulkovo Airport,St. Petersburg,Russia,LED,ULLI,59.8003006,30.26250076,78,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2949,Murmansk Airport,Murmansk,Russia,MMK,ULMM,68.78170013,32.75080109,266,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2954,Minsk National Airport,Minsk 2,Belarus,MSQ,UMMS,53.88249969,28.03070068,670,3,E,Europe/Minsk,airport,OurAirports,BY,BO,BLR,Europe,Eastern Europe,#N/A,BYN
+2957,Kemerovo Airport,Kemorovo,Russia,KEJ,UNEE,55.27009964,86.10720062,863,7,N,Asia/Krasnoyarsk,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+4297,Bogashevo Airport,Tomsk,Russia,TOF,UNTT,56.38029861,85.20829773,597,7,N,Asia/Krasnoyarsk,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+6119,Spichenkovo Airport,Novokuznetsk,Russia,NOZ,UNWW,53.811401,86.877197,1024,7,N,Asia/Krasnoyarsk,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+4353,Anapa Vityazevo Airport,Anapa,Russia,AAQ,URKA,45.0021019,37.34730148,174,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2973,Bolshoye Savino Airport,Perm,Russia,PEE,USPP,57.91450119,56.02119827,404,5,N,Asia/Yekaterinburg,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2975,Koltsovo Airport,Yekaterinburg,Russia,SVX,USSS,56.74309921,60.80270004,764,5,N,Asia/Yekaterinburg,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+4029,Domodedovo International Airport,Moscow,Russia,DME,UUDD,55.40879822,37.90629959,588,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2985,Sheremetyevo International Airport,Moscow,Russia,SVO,UUEE,55.972599,37.4146,622,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2988,Vnukovo International Airport,Moscow,Russia,VKO,UUWW,55.59149933,37.26150131,685,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2990,Kazan International Airport,Kazan,Russia,KZN,UWKD,55.60620117,49.27870178,411,3,N,Europe/Moscow,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
+2993,Kurumoch International Airport,Samara,Russia,KUF,UWWW,53.50490189,50.16429901,477,4,N,Europe/Samara,airport,OurAirports,RU,RS,RUS,Europe,Eastern Europe,ru_RU,RUB
